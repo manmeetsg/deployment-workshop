@@ -5,11 +5,14 @@
 We will be exploring some of AWS's products, specifically EC2 and S3. Wow! 
 
 ## Sign Up
-In order to use AWS, we'll first need to make an account. Let's use a student discount! Alright!
+In order to use AWS, we'll first need to make an account. Let's use a student discount!
 
-Go to [GitHub Develper Pack](https://education.github.com/pack) and then select the "Get Your Pack" button.
+:rocket: Go to [GitHub Develper Pack](https://education.github.com/pack) and then select the "Get Your Pack" button.
 
 ![](http://i.makeagif.com/media/5-21-2015/51U0Qm.gif)
+
+Scroll down and click on the "unique link" next to the AWS logo. This should open up a new tab on your browser.
+
 
 ## Teams
 
