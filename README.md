@@ -1,8 +1,8 @@
-# CS52 Workshops
+# Welcome to our Deployment Workshop!
 
-![](http://i.giphy.com/eUh8NINbZf9Ys.gif)
+![](http://i.giphy.com/AbYxDs20DECQw.gif)
 
-Each workshop session will be ~60 minutes on a web technology, tool, framework, or concept. It will consist of both a short presentation as well as a tutorial. The tutorial will be a written online document in the form of a [markdown](https://guides.github.com/features/mastering-markdown/) readme file in a git repo — you can start by forking this very repo. During the tutorial section the class will work in teams of 3 following along with the instructions in the document. The team presenting will answer questions and help the individual teams along.
+Today we will be exploring some of AWS's . It will consist of both a short presentation as well as a tutorial. The tutorial will be a written online document in the form of a [markdown](https://guides.github.com/features/mastering-markdown/) readme file in a git repo — you can start by forking this very repo. During the tutorial section the class will work in teams of 3 following along with the instructions in the document. The team presenting will answer questions and help the individual teams along.
 
 
 ## Workshop Overview
