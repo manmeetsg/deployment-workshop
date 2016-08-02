@@ -23,7 +23,25 @@ Select "I am a new user." Fill out the application.
 
 :rotating_light: NOTE: You will be asked to input credit card information. The GitHub Developer Pack will cover all costs so nothing will be charged on your card.
 
-Choose the “basic” support plan when prompted. You should receive a confirmation email from AWS.
+Choose the “basic” support plan when prompted. After completing the AWS account application, you should receive a confirmation email.
+
+Now to get our AWS account ID!
+
+Go to the [AWS website](https://aws.amazon.com/) and sign in by clicking on the "Sign in to Console" button. Select the "Manage Account" section 
+
+![](img/AWS-manage-account.png) 
+
+Your ID will be listed under “Account Settings," copy it and input it in the 'AWS Account ID' in the student application we were working on!
+
+After completing the student application, you should receive a confirmation email about your app being under review. You should receive receive an email from AWS within 24 hours about your application being approved.
+
+Now you're ready!
+
+## More to come during Thursday's workshop!
+
+
+
+
 
 
 
