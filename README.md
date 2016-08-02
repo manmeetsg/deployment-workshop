@@ -12,7 +12,7 @@ In order to use AWS, we'll first need to make an account. Let's use a student di
 ![](http://i.makeagif.com/media/5-21-2015/51U0Qm.gif)
 
 Scroll down and click on the "unique link" next to the AWS logo. This should open up a new tab on your browser.
-!()[img/AWS-unique-link.png)
+![](img/AWS-unique-link.png)
 
 
 ## Teams
