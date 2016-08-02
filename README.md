@@ -2,10 +2,10 @@
 
 ![](http://i.giphy.com/AbYxDs20DECQw.gif)
 
-Today we will be exploring some of AWS's . It will consist of both a short presentation as well as a tutorial. The tutorial will be a written online document in the form of a [markdown](https://guides.github.com/features/mastering-markdown/) readme file in a git repo — you can start by forking this very repo. During the tutorial section the class will work in teams of 3 following along with the instructions in the document. The team presenting will answer questions and help the individual teams along.
+We will be exploring some of AWS's products, specifically EC2 and S3. Wow! 
 
 
-## Workshop Overview
+## Sign Up
 
 * [10-15 Minute Intro Presentation](#presentation-section)
 * [30 Minute Tutorial](#tutorial-section)
