@@ -20,6 +20,7 @@ Select student for "Role." Fill out the information requested for the applicatio
 ![](img/AWS-account-link.png)
 
 Select "I am a new user." Fill out the application.
+
 :rotating_light: NOTE: You will be asked to input credit card information. The GitHub Developer Pack will cover all costs so nothing will be charged on your card.
 
 
