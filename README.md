@@ -4,12 +4,11 @@
 
 We will be exploring some of AWS's products, specifically EC2 and S3. Wow! 
 
-
 ## Sign Up
+In order to use AWS, we'll first need to make an account. Let's use a student discount! Alright!
 
-* [10-15 Minute Intro Presentation](#presentation-section)
-* [30 Minute Tutorial](#tutorial-section)
-* [5-10 Minute Wrap-Up Discussion](#wrap-up-discussion-section)
+Go to [GitHub Develper Pack](https://education.github.com/pack) and then select the "Get Your Pack" button.
+![](http://makeagif.com/i/51U0Qm)
 
 ## Teams
 
