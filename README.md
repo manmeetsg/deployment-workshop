@@ -23,5 +23,8 @@ Select "I am a new user." Fill out the application.
 
 :rotating_light: NOTE: You will be asked to input credit card information. The GitHub Developer Pack will cover all costs so nothing will be charged on your card.
 
+Choose the “basic” support plan when prompted. You should receive a confirmation email from AWS.
+
+
 
 
