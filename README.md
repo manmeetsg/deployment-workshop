@@ -12,64 +12,15 @@ In order to use AWS, we'll first need to make an account. Let's use a student di
 ![](http://i.makeagif.com/media/5-21-2015/51U0Qm.gif)
 
 :rocket: Scroll down and click on the "unique link" next to the AWS logo. This should open up a new tab on your browser.
+
 ![](img/AWS-unique-link.png)
 
 Select student for "Role." Fill out the information requested for the application. If you do not have an AWS account, select the link found under the 'AWS Account ID' input.
 
+![](img/AWS-account-link.png)
 
-## Teams
-
-Teams of ~5 will be formed around dates and a set of potential topics. Your and your team may chose 1 or 2 technologies from the list or may suggest alternative related technologies/topics.
-
-## Setup
-
-If your tutorial requires any lengthy download or install procedures please let the class know at least 2 days in advance.
-
-## Details
+Select "I am a new user." Fill out the application.
+:rotating_light: NOTE: You will be asked to input credit card information. The GitHub Developer Pack will cover all costs so nothing will be charged on your card.
 
 
-### Presentation Section
 
-~(10-15 minutes)
-
-* motivate the technology
-* show where the technology fits into the web dev process (dev tool, frontend framework, preprocessor, language etc)
-* show some use cases
-* discuss pros/cons
-
-You may use any presentation technology, although [reveal.js](https://github.com/hakimel/reveal.js) is particularly fitting as an open source javascript library, and supports code blocks. :gem:
-
-### Tutorial Section
-
-(~30 minutes)
-
-Your written tutorial document will be a walkthrough of building something using the specific web technologies.
-
-It should include:
-
-* Overview of what will be attempted
-* Any necessary setup steps
-* Step by step instructions
-* Explanations of the what **and** the why behind each step. Try to include:
-  * higher level concepts
-  * best practices
-
-Remember to explain any notation you are using.
-
-```javascript
-/* and use code blocks for any code! */
-```
-
-![screen shots are helpful](img/screenshot.png)
-
-:sunglasses: GitHub markdown files [support emoji notation](http://www.emoji-cheat-sheet.com/)
-
-Here's a resource for [github markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Wrap-Up Discussion Section
-
-(~5-10 minutes)
-
-* lead short discussion
-* answer questions
-* individual teams share results
