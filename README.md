@@ -14,6 +14,8 @@ In order to use AWS, we'll first need to make an account. Let's use a student di
 :rocket: Scroll down and click on the "unique link" next to the AWS logo. This should open up a new tab on your browser.
 ![](img/AWS-unique-link.png)
 
+Select student for "Role." Fill out the information requested for the application. If you do not have an AWS account, select the link found under the 'AWS Account ID' input.
+
 
 ## Teams
 
