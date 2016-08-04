@@ -99,6 +99,9 @@ ___
 In this part, we will use one of Amazon Web Services' most popular products, an EC2 instance, which is basically a cloud server that runs in a region that they control. Think of it as the flume or wildcat server that we used in CS50. You can do a lot from these since they are machines that work much like your own computer. We are going to create a wordpress website that you can modify as your own using an EC2 instance of your own!
 ___
 
+Modified from [this link](http://coenraets.org/blog/2012/01/setting-up-wordpress-on-amazon-ec2-in-5-minutes/)
+
+
 ### Step 1
 
 Create an AWS account... you should've already done this. :eggplant:
@@ -184,10 +187,6 @@ Create an AWS account... you should've already done this. :eggplant:
 
 * You're logged into your new instance now! Let's gooo!
 
-___
-
-## Time to get lifted. :mushroom:
-___
 
 ### Step 4
 Run these commands to run an apache web server on your account (huge).
