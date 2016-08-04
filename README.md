@@ -85,7 +85,9 @@ As the project, select the landing page that you created in Lab 1 and whatever y
 
 Then click Ok.
 
-It should take another minute to deploy, then you can click browse and it should take you to your landing page. This shows just how easy it is to deploy your website without having to worry about the deployment process!
+It should take another minute to deploy, then you can click browse and it should take you to your landing page. This shows just how easy it is to deploy your website without having to worry about the deployment process! 
+
+Now that your git repository is connected to Azure, whenever you push to git it will automatically update your website. Try making a small change to your page to watch it update automatically.
 
 ### YAY SUCCESS!!!
 
@@ -189,7 +191,7 @@ Create an AWS account... you should've already done this. :eggplant:
 
 
 ### Step 4
-Run these commands to run an apache web server on your account (huge).
+Run these commands to run an apache web server on your instance.
 
   * `sudo su`
     * changes permissions.
@@ -300,3 +302,7 @@ ___
     * Login with your credentials and have fun with your new blog!
 
     * You have now deployed a WordPress blog using Amazing AWS EC2. Congrats. :cold_sweat:
+
+# What Did We Do?
+	
+	Hello 
