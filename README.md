@@ -59,22 +59,22 @@ Go to [this link](https://login.microsoftonline.com/common/oauth2/authorize?reso
 - It should take you to the dartmouth sign in page, sign in.
 
 You should now be on the Azure dashboard.
-![webpage](images/Dash.png)
+![webpage](img/Dash.png)
 
 Now click on App Services->Add
-![webpageselect](images/Rect.png)
+![webpageselect](img/Rect.png)
 
 **Now you have to sign up for Azure services. If you select the free trial it will ask you for credit card information but you will not be charged at all**
 
 Once you sign-up, return to the dashboard.
 
 Click new again. Select a name for you app, and a name for a new resource group.
-![new](images/newapp.png)
+![new](img/newapp.png)
 
 It will take a minute for your new app to show up in the App Services section, when it does, click on it.
 
 Click settings and scroll down to publishing->Deployment Source.
-![publish](images/publishing.png)
+![publish](img/publishing.png)
 
 Select Github as the configuration source. If it asks for your permission to connect to your Github account. Select yes.
 
