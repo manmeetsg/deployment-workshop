@@ -2,7 +2,7 @@
 
 ![](http://i.giphy.com/AbYxDs20DECQw.gif)
 
-We will be exploring some of AWS's products, specifically EC2 and S3., and Microsoft Azure's deployment capapbilites!!! Wow!
+We will be exploring some of AWS's products, specifically EC2, and Microsoft Azure's deployment capapbilites!!! Wow!
 
 ## Sign Up
 In order to use AWS, we'll first need to make an account. Let's use a student discount!
@@ -85,9 +85,9 @@ As the project, select the landing page that you created in Lab 1 and whatever y
 
 Then click Ok.
 
-It should take another minute to deploy, then you can click browse and it should take you to your landing page.
+It should take another minute to deploy, then you can click browse and it should take you to your landing page. This shows just how easy it is to deploy your website without having to worry about the deployment process!
 
-## YAY SUCCESS!!!
+### YAY SUCCESS!!!
 
 ![](http://i.giphy.com/lnlAifQdenMxW.gif)
 
@@ -96,7 +96,7 @@ It should take another minute to deploy, then you can click browse and it should
 # WordPress with AWS EC2
 
 ___
-In this tutorial, we will use one of Amazon Web Services' most popular products, an EC2 instance, which is basically a cloud server that runs in a region that they control. Think of it as the flume or wildcat server that we used in CS50. You can do a lot from these since they are machines that work much like your own computer. We are going to create a wordpress website that you can modify as your own using an EC2 instance of your own!
+In this part, we will use one of Amazon Web Services' most popular products, an EC2 instance, which is basically a cloud server that runs in a region that they control. Think of it as the flume or wildcat server that we used in CS50. You can do a lot from these since they are machines that work much like your own computer. We are going to create a wordpress website that you can modify as your own using an EC2 instance of your own!
 ___
 
 ### Step 1
@@ -255,7 +255,7 @@ Time to edit your config settings. Enter a text editor using:
 ### Step 8
 Setting up WordPress.
 ___
-## Last step :pray::pray::pray:
+### Last step :pray::pray::pray:
 ___
 
 * For the last time, head to your AWS console... :neutral_face: :neutral_face: :neutral_face: http://console.aws.amazon.com/console/home.
@@ -286,7 +286,7 @@ ___
 
 ___
 
-# Visit your webpage
+## Visit your webpage
 
 * Go to your "Public DNS" link. To get this do the following:
 
